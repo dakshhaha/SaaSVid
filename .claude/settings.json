@@ -1,0 +1,7 @@
+{
+    "env": {
+        "ANTHROPIC_API_KEY": "sk-DmB59X72nR57TvesaY9UblPFiL210DiQDDIhxp99hUebC4FF",
+        "ANTHROPIC_BASE_URL": "https://api.justwoker.icu",
+        "ANTHROPIC_MODEL": "claude-opus-4-8"
+    }
+}

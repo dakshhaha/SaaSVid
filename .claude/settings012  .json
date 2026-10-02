@@ -1,0 +1,7 @@
+{
+    "env": {
+        "ANTHROPIC_API_KEY": "sk-ci2tockR4s0CW4HNWa6o8wS2Aerewdo4CURjQHx49QuXtgbr",
+        "ANTHROPIC_BASE_URL": "https://apichat.budsin.dev",
+        "ANTHROPIC_MODEL": "anthropic/claude-opus-4.6"
+    }
+}

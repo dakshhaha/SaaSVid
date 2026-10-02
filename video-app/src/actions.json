@@ -1,0 +1,26 @@
+[
+  {
+    "t": 30,
+    "type": "move",
+    "target": "w1_target_audience"
+  },
+  {
+    "t": 75,
+    "type": "click",
+    "target": "w1_target_audience",
+    "caption": "Target 10,000 leads.",
+    "sfx": "click"
+  },
+  {
+    "t": 120,
+    "type": "move",
+    "target": "w1_send_button"
+  },
+  {
+    "t": 180,
+    "type": "click",
+    "target": "w1_send_button",
+    "caption": "Send personalized broadcasts.",
+    "sfx": "chat-pop"
+  }
+]

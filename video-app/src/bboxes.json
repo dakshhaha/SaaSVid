@@ -1,0 +1,16 @@
+[
+  {
+    "id": "w1_target_audience",
+    "x": 450,
+    "y": 380,
+    "width": 200,
+    "height": 40
+  },
+  {
+    "id": "w1_send_button",
+    "x": 1400,
+    "y": 850,
+    "width": 180,
+    "height": 50
+  }
+]

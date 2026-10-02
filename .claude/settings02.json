@@ -1,0 +1,7 @@
+{
+    "env": {
+        "ANTHROPIC_API_KEY": "sk-9dG4OqF4Z78QUcJwt2c3GscEJ8zGaiCpQSH3PjBA4O4hnJKR",
+        "ANTHROPIC_BASE_URL": "https://seekai.cc",
+        "ANTHROPIC_MODEL": "glm-5.3-flash"
+    }
+}
